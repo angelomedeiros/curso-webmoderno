@@ -4,7 +4,7 @@
 */
 
 /*
-* A tipagem ser fraca, significa dizer que não a verficação de tipo em 
+* A tipagem ser fraca, significa dizer que não há verficação de tipo em 
 * tempo de execução ou compilação ou seja, é possível fazer coisas
 * como 1 + '12' -> '112' (js, php) (relação com valor)
 */
